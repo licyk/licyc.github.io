@@ -1,5 +1,5 @@
 -----------------------------
-csv 版本: https://licyk.github.io/t/tag/tag_pp_zh.txt
+csv 版本: https://licyk.github.io/t/tag/tag_pp_zh.csv
 -----------------------------
 2boys  |  2个男孩
 3boys  |  3个男孩
